@@ -1,0 +1,13 @@
+User stories:
+
+Must have:
+#1 As a player I want to know the turnip pattern of my town so that I can work out whether to sell or not.
+#2 As a player I want to know the profit I will make on a sale given the price I bought at and the price I am selling at so that I can know if the trade is worth it.
+
+Could have:
+#3 As a player I want to get notifications on selling / buying prices on Reddit so that I can make a profit.
+#4 As a player I want to be able to turn Reddit notifications off so that I will not be bothered when I want to trade without the help of Reddit.
+#5 As a player I want to customise the notifications I receive from Reddit so that I can only see prices that I am interested in.
+
+Would like to have:
+#6 As a player I want to be able to see how much I have made on the stalk market over time so that I can keep track of my total earnings and see how close I am to earning certain in game badges.

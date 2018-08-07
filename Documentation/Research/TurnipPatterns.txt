@@ -1,0 +1,44 @@
+Turnip patterns:
+
+#1 Decreasing
+Start price: 50-99 bells. Consistently decreases, never increases.
+If price does not increase by Thursday, this is the pattern most likely.
+
+#2 Big Spike
+May start with a decreasing pattern. There will be 3 increasing prices, 
+followed by 2 decreasing prices that are still higher than average, followed 
+by a decreasing pattern. The max price will always be preceded by 2 increasing 
+prices and followed by 2 decreasing prices.
+The maximum price cannot occur on Monday or Saturday.
+
+#3 Small Spike
+May start with a decreasing pattern. There will be 4 increasing prices with the 
+4th being the max price for the week. This is followed by a decreasing price that 
+is higher than average. This is followed by a continuation of the decreasing pattern.
+The maximum price can occur between Tuesday afternoon and Saturday morning.
+
+#4 Random Price
+Unpredictable prices in the range of about 50-200. The price seems to go over 110 at 
+least twice a week.
+
+Rules:
+ - if the 2nd price is an increase, you do not have decreasing pattern
+ - if the 2nd price is a decrease, you may have any of the patterns
+ - if the price after the 1st increase price is a decrease, you have random pattern
+    - sell if price goes over 110 bells
+ - if the price after the 1st increase price is an increase, you may have big spike, 
+   small spike or random
+ - if the price after the 2nd increase is an increase and is >=250 bells, you probably 
+   have the big spike pattern
+    - sell
+ - if the price after the 2nd increase is an increase and is <250 bells, you probably 
+   have the small spike pattern
+    - wait
+ - if the price after the 2nd increase is a decrease, you have random pattern
+    - sell if price goes over 110 bells
+ - if the price has not increased by Thursday afternoon, you have decreasing or 
+   random pattern (as this is the latest the increases required for the small spike 
+   and big spike could begin)
+    - sell
+
+Source - https://www.thonky.com/animal-crossing-new-leaf/stalk-market
