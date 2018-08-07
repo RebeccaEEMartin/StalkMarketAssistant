@@ -1,8 +1,6 @@
 Functional requirements:
 
 #1 As a player I want to know the turnip pattern of my town so that I can work out whether to sell or not.
- - The user must be able to enter the price they bought the turnips for for the selected week.
- - The user must be able to enter how many turnips they purchased.
  - The user must be able to enter the buying price for a selected date and time of day
    (morning or noon)
  - The app must calculate based on the prices for the dates given the patterns that the town could be experiencing
