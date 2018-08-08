@@ -1,4 +1,4 @@
-package com.example.demo.beer;
+package com.example.sam.beer;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

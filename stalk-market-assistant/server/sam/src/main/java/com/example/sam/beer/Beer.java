@@ -1,4 +1,4 @@
-package com.example.demo.beer;
+package com.example.sam.beer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
